@@ -1,6 +1,5 @@
 # 월이 입력될 때 계절 이름이 출력되도록 해보자.
 
-
 a=int(input())
 if a//3==1:
     print("spring")
